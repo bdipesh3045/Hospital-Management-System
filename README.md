@@ -1,4 +1,5 @@
 Hospital Management System
+This is a Hospital Management System that supports CRUD (Create, Read, Update, Delete) operations and includes different kinds of validation to ensure data accuracy and security.
 ## Functionalities
 The program will provide the following features, plus more as described in the function sections below:
 
@@ -38,5 +39,23 @@ The program will provide the following features, plus more as described in the f
  9.A text-based interface to list the patients and allow the user to select which feature they would like to use.
   
 ```
+## Run Locally
 
+Clone the project
+
+```bash
+  git clone https://github.com/bdipesh3045/Hospital-Management-System/
+```
+
+Go to the project directory
+
+```bash
+  python3 main.py
+```
+
+```
+##Screenshots
+![image](https://user-images.githubusercontent.com/111185281/226559527-76ea8c84-f815-4535-aa5f-c2a42c08b7f0.png)
+
+Thank You!
 
